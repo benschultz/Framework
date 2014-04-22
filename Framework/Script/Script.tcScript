@@ -22,7 +22,7 @@
 		<Node name="child list">
 			<Node name="item0000000000">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Unit1.svb"/>
+					<Prp name="relpath" type="S" value="Assertions_QTP.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="0"/>
 				<Prp name="key" type="S" value="{82C7A9C8-5F48-4806-88FB-76CACC3D0CE5}"/>
