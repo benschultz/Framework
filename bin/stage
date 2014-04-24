@@ -1,0 +1,13 @@
+die () {
+    echo >&2 "$@"
+    exit 1
+    }
+
+[ "$#" -eq 1 ] || die "1 argument required, $# provided (need text for -m)"
+git status
+echo ==========================
+git commit -a -m "$1"
+echo ==========================
+git status
+echo ==========================
+git pull
