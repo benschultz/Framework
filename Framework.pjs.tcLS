@@ -24,7 +24,7 @@
 				<Prp name="default project" type="S" value="{264308E6-664F-4050-BD4F-500762027E4D}"/>
 			</Node>
 			<Node name="{264308e6-664f-4050-bd4f-500762027e4d}">
-				<Prp name="relpath" type="S" value="Framework\Framework.mds.tcLS"/>
+				<Prp name="relpath" type="S" value="Framework\FWSuite.mds.tcLS"/>
 			</Node>
 			<Node name="logs">
 				<Prp name="key" type="S" value="{5A214D32-AE7F-4960-B443-5C8D51BEEF8B}"/>

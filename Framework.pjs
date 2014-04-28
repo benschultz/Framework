@@ -25,7 +25,7 @@
 		<Node name="child list">
 			<Node name="item0000000000">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Framework\Framework.mds"/>
+					<Prp name="relpath" type="S" value="Framework\FWSuite.mds"/>
 				</Node>
 				<Prp name="index" type="I" value="0"/>
 				<Prp name="key" type="S" value="{264308E6-664F-4050-BD4F-500762027E4D}"/>
@@ -35,8 +35,8 @@
 			</Node>
 		</Node>
 		<Node name="files">
-			<Node name="framework\framework.mds">
-				<Prp name="relpath" type="S" value="Framework\Framework.mds"/>
+			<Node name="framework\fwsuite.mds">
+				<Prp name="relpath" type="S" value="Framework\FWSuite.mds"/>
 			</Node>
 		</Node>
 		<Node name="folders">
